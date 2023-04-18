@@ -149,7 +149,7 @@ font-size: 3rem;
 }
 
 .grid-container4 .box-1 h3{
-  font-size: 2.5rem;
+  font-size: 2.25rem;
   text-align: left;
   margin-top: 1%;
   margin-bottom: 3%;
@@ -158,13 +158,49 @@ font-size: 3rem;
 }
 
 .grid-container4 .box-1 p {
-  font-size: 1.5rem;
+  font-size: 1.25rem;
   text-align: left;
   font-weight: lighter;
   margin-top: 1%;
   margin-bottom: 3%;
   margin-left: 3%;
 }
+
+
+.grid-container4 .box-2 h3{
+  font-size: 2.25rem;
+  text-align: left;
+  margin-top: 1%;
+  margin-bottom: 3%;
+  margin-left: 3%;
+}
+
+.grid-container4 .box-2 p{
+  font-size: 1.25rem;
+  text-align: left;
+  font-weight: lighter;
+  margin-top: 1%;
+  margin-bottom: 3%;
+  margin-left: 3%;
+}
+
+.grid-container4 .box-3 h3{
+  font-size: 2.25rem;
+  text-align: left;
+  margin-top: 1%;
+  margin-bottom: 3%;
+  margin-left: 3%;
+}
+
+.grid-container4 .box-3 p{
+  font-size: 1.25rem;
+  text-align: left;
+  font-weight: lighter;
+  margin-top: 1%;
+  margin-bottom: 3%;
+  margin-left: 3%;
+}
+
 
 .grid-container4 .box-1 figure{
   margin-top: 20%;
@@ -188,76 +224,11 @@ font-size: 3rem;
   margin-bottom: 3%;
   margin-left: 3%;
   background-color: black;
-  border: 10px solid black;
   border-radius: 5%;
-  padding-left: 2%;
-  padding-right: 2%;
-  
-
-}
-
-.grid-container4 a:visited{
-  font-size: 1.25rem;
-  font-weight: bold;
-  text-align: center;
-  margin-bottom: 3%;
-  margin-left: 3%;
-  background-color: black;
-  border: 10px solid black;
-  border-radius: 5%;
-  padding-left: 2%;
-  padding-right: 2%;
-  
-
-}
-
-.grid-container4 a:hover{
-  font-size: 1.25rem;
-  font-weight: bold;
-  text-align: center;
-  margin-bottom: 3%;
-  margin-left: 3%;
-  background-color: black;
-  border: 10px solid black;
-  border-radius: 5%;
-  padding-left: 2%;
-  padding-right: 2%;
-  
-
-}
-
-.grid-container4 .box-2 h3{
-  font-size: 2.5rem;
-  text-align: left;
-  margin-top: 1%;
-  margin-bottom: 3%;
-  margin-left: 3%;
-}
-
-.grid-container4 .box-2 p{
-  font-size: 1.5rem;
-  text-align: left;
-  font-weight: lighter;
-  margin-top: 1%;
-  margin-bottom: 3%;
-  margin-left: 3%;
-}
-
-.grid-container4 .box-3 h3{
-  font-size: 2.5rem;
-  text-align: left;
-  margin-top: 1%;
-  margin-bottom: 3%;
-  margin-left: 3%;
-}
-
-.grid-container4 .box-3 p{
-  font-size: 1.5rem;
-  text-align: left;
-  font-weight: lighter;
-  margin-top: 1%;
-  margin-bottom: 3%;
-  margin-left: 3%;
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-top: 1%;
+  padding-bottom: 1%;
 }
 
 .grid-container5{
