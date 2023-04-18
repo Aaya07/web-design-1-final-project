@@ -53,12 +53,13 @@ nav ul {
 }
 
 .grid-container .box-1{
-  font-family: 'Open Sans', sans-serif;  font-size: 3rem;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 2.75rem;
   margin-left: 12%;
 }
 .grid-container .box-2{
   font-family: 'Open Sans', sans-serif;
-  font-size: 2rem;
+  font-size: 1.75rem;
   margin-right: -12%;
 }
 
@@ -95,16 +96,16 @@ nav ul {
 }
 
 .grid-container2 .box-1 h1{
-font-size: 4rem;
+font-size: 3rem;
 }
 
 .grid-container2 .box-1 h2{
-  font-size: 3rem;
+  font-size: 2rem;
   line-height: 1em;
   }
 
   .grid-container2 .box-1 p{
-    font-size: 1.5rem;
+    font-size: 1.25rem;
     text-align: left;
     font-weight: lighter;
 
@@ -120,7 +121,7 @@ font-size: 4rem;
 }
 
 .grid-container3 .box-1 h2{
-  font-size: 4rem;
+  font-size: 3rem;
   text-align: center;
   margin-top: 6%;
   margin-bottom: 3%;
@@ -147,7 +148,7 @@ font-size: 4rem;
 }
 
 .grid-container4 .box-1 h3{
-  font-size: 2.75rem;
+  font-size: 2.5rem;
   text-align: left;
   margin-top: 1%;
   margin-bottom: 3%;
@@ -156,7 +157,7 @@ font-size: 4rem;
 }
 
 .grid-container4 .box-1 p {
-  font-size: 1.75rem;
+  font-size: 1.5rem;
   text-align: left;
   font-weight: lighter;
   margin-top: 1%;
@@ -165,7 +166,7 @@ font-size: 4rem;
 }
 
 .grid-container4 .box-1 a:link {
-  font-size: 1.75rem;
+  font-size: 1.55rem;
   text-align: left;
   margin-top: 1%;
   margin-bottom: 3%;
@@ -178,7 +179,7 @@ font-size: 4rem;
 
 
 .grid-container4 .box-2 h3{
-  font-size: 2.75rem;
+  font-size: 2.5rem;
   text-align: left;
   margin-top: 1%;
   margin-bottom: 3%;
@@ -186,7 +187,7 @@ font-size: 4rem;
 }
 
 .grid-container4 .box-2 p{
-  font-size: 1.75rem;
+  font-size: 1.5rem;
   text-align: left;
   font-weight: lighter;
   margin-top: 1%;
@@ -195,7 +196,7 @@ font-size: 4rem;
 }
 
 .grid-container4 .box-3 h3{
-  font-size: 2.75rem;
+  font-size: 2.5rem;
   text-align: left;
   margin-top: 1%;
   margin-bottom: 3%;
@@ -203,7 +204,7 @@ font-size: 4rem;
 }
 
 .grid-container4 .box-3 p{
-  font-size: 1.75rem;
+  font-size: 1.5rem;
   text-align: left;
   font-weight: lighter;
   margin-top: 1%;
@@ -219,7 +220,7 @@ font-size: 4rem;
   
 }
 .grid-container5 .box-1 h2{
-  font-size: 4rem;
+  font-size: 3rem;
   text-align: center;
   
 
@@ -227,13 +228,14 @@ font-size: 4rem;
 }
 
 .grid-container5 .box-1 p{
-  font-size: 1.75rem;
+  font-size: 1.5rem;
   text-align: center;
 
 }
 
 .grid-container5 .box-2{
 text-align: center;
+padding-top: 4%;
 
 }
 
@@ -297,46 +299,40 @@ margin-left: 20%;
   }
 
 .grid-container7 .box-1 p{
-  font-size: 1.75rem;
+  font-size: 1.5rem;
   text-align: center;
   font-weight: lighter;
   font-style: italic;
 }
 .grid-container7 .box-2 p{
-  font-size: 1.75rem;
+  font-size: 1.5rem;
   text-align: center;
   font-weight: lighter;
   font-style: italic;
 }
-.grid-container7 .box-1 p1{
+.grid-container7 figcaption{
   color: lightgrey;
-  font-size: 1.75rem;
+  font-size: 1.5rem;
   text-align: center;
   font-weight: lighter;
   margin-left: 15%;
+}
   
-}
-.grid-container7 .box-2 p1{
-  color: lightgrey;
-  font-size: 1.75rem;
-  text-align: center;
-  font-weight: lighter;
-  margin-left: 20%;
-}
+
 
 .grid-container8 {
   background-color: white;
 }
 
 .grid-container8 .box-1 h2{
-  font-size: 4rem;
+  font-size: 3rem;
   text-align: center;
   margin-top: 10%;
 
 }
 
 .grid-container8 .box-1 p{
-  font-size: 1.75rem;
+  font-size: 1.5rem;
   text-align: center;
 
 }
